@@ -1,0 +1,7 @@
+# Compiled output - auto generated, don't push
+out/
+
+# Database and data files - personal test data
+data/bank.db
+data/customers.txt
+data/accounts.txt
